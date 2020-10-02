@@ -1,7 +1,6 @@
 Hola,
-
-Este es el segundo mensaje del archivo,
-
+Este es el numero de mensajes del archivo,
+Primeros pasos con GIT.
 Reinaldo.
 
 El primer commit fue crear el archivo asi que el numero de mensaje + 1 es el numero de commits.
