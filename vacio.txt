@@ -1,3 +1,7 @@
 Hola,
-Este es el primer mensaje del archivo,
+
+Este es el segundo mensaje del archivo,
+
 Reinaldo.
+
+El primer commit fue crear el archivo asi que el numero de mensaje + 1 es el numero de commits.
